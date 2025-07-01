@@ -11,7 +11,7 @@ ln -s ~/.local/squashfs-root/AppRun ~/.local/bin/nvim
 
 echo "XDG_CONFIG_HOME=$HOME" >>~/.profile
 cd ~/.config/nvigit
-git clone https://github.com/LazyVim/starter ~/.config/nvimm
+git clone https://github.com/LazyVim/starter ~/.config/nvim
 
 cd /workspaces/$RepositoryName
 
